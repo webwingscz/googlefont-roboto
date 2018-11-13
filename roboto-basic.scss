@@ -1,22 +1,22 @@
-$ww-font-path: "~@webwingscz/googlefont-roboto/fonts" !default;
+$ww-roboto-font-path: "~@webwingscz/googlefont-roboto/fonts" !default;
 
 @font-face {
   font-family: 'Roboto';
-  src: url('#{$ww-font-path}/Roboto-Light.ttf') format('truetype');
+  src: url('#{$ww-roboto-font-path}/Roboto-Light.ttf') format('truetype');
   font-weight: 300;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'Roboto';
-  src: url('#{$ww-font-path}/Roboto-LightItalic.ttf') format('truetype');
+  src: url('#{$ww-roboto-font-path}/Roboto-LightItalic.ttf') format('truetype');
   font-weight: 300;
   font-style: italic;
 }
 
 @font-face {
   font-family: 'Roboto';
-  src: url('#{$ww-font-path}/Roboto-Bold.ttf') format('truetype');
+  src: url('#{$ww-roboto-font-path}/Roboto-Bold.ttf') format('truetype');
   font-weight: 700;
   font-style: normal;
 }
