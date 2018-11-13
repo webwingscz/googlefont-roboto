@@ -1,6 +1,6 @@
 {
   "name": "@webwingscz/googlefont-roboto",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Google Font Roboto Family package",
   "main": "index.js",
   "scripts": {
